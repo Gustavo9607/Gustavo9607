@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Gustavo9607
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, Yo soy Gustavo
+- 👀 Estoy interesado en el ***Desarrollo De Software***
+- 🌱 Me gusta aprender cosas nuevas cada día a cerca de este mundo tan apasionante del desarrollo
+
+
+![IMG Proyect](https://smartrural.net/wp-content/uploads/desarrollo-de-sotware-smartrural.png)
 
 <!---
 Gustavo9607/Gustavo9607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
