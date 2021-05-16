@@ -1,4 +1,4 @@
-- 👋 Hola, Yo soy Gustavo
+- 👋 Hola, soy Gustavo Deossa
 - 👀 Estoy interesado en el ***Desarrollo De Software***
 - 🌱 Me gusta aprender cosas nuevas cada día a cerca de este mundo tan apasionante del desarrollo
 
